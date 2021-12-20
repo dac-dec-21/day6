@@ -1,3 +1,4 @@
+// document :: DOM :: Document Object Modal
 function tweet() {
   let prevString = document.getElementById("div1").innerHTML;
   let newChild =
